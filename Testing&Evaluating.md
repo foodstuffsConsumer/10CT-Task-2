@@ -1,7 +1,9 @@
-# Exploring Existing Ideas
+# Evaluation of Issues
 
-# Primary Research
+Social: The solution
 
-# Secondary Research
+Ethical: The website does not collect any data from site visitors, and therefore does not, and can not share or store any personal data without their explicit permission. The site is fully transparent about this, 
 
-# Prototype
+Legal
+
+# Project Evaluation
