@@ -1,9 +1,8 @@
-# Evaluation of Issues
+## Social Issues
+Accessability could be a problem, as there are no options to change the font size.
 
-Social: The solution
+## Ethical Issues
+The website does not collect any data from site visitors, and therefore does not, and cannot share or store any personal data without their explicit permission.
 
-Ethical: The website does not collect any data from site visitors, and therefore does not, and can not share or store any personal data without their explicit permission. The site is fully transparent about this, 
-
-Legal
-
-# Project Evaluation
+## Legal Issues
+Legal liabilities could possibly arise if any advice a user takes from the app turns out to be detrimental.
